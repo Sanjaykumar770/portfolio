@@ -6,7 +6,8 @@ this is my portfolio project
 
 html,css , javascript
 
-## demo
+## demog
+https://sanjaykumar770.github.io/portfolio/
 ![Screenshot 2023-10-19 185825](https://github.com/Sanjaykumar770/portfolio/assets/148108924/8d072d12-dd4c-4c21-a3b8-b0e1552e21ff)
 
 
